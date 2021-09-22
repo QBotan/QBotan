@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Botan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Front-End
+- 🌱 I’m currently learning Front-End and Graphic Design
 - 📫 How to reach me Discord: Botan#7419
 
 <!---
