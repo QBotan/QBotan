@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Botan
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Botan 25 yo.
+- 👀 I’m interested in coding and design
 - 🌱 I’m currently learning Front-End and Graphic Design
 - 📫 How to reach me Discord: Botan#7419
 
